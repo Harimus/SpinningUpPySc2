@@ -2,7 +2,7 @@
 
 set -e
 
-#conda create -n spinningupPySc2 python=3.6
+conda create -n spinningupPySc2 python=3.6
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate spinningupPySc2
 
